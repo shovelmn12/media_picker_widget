@@ -80,8 +80,7 @@
 
 * Dependency Updated
 
-## 1.0.8-pre.1
-
+## 1.0.8
 
 * Dependency Updated
 
